@@ -1,4 +1,4 @@
-package org.example;
+package org.recursion.intro;
 
 public class BinarySearchRecursion {
 
@@ -28,5 +28,5 @@ public class BinarySearchRecursion {
         }
         return search(arr,target, start, middle -1);
     }
-
+    
 }
