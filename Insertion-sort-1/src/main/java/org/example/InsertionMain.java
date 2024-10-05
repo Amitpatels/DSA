@@ -2,7 +2,7 @@ package org.example;
 
 import java.util.Arrays;
 
-public class Main {
+public class InsertionMain {
     public static void main(String[] args) {
         int arr[] = {5, 3, 4, 1, 2,-34,0};
         insertion(arr);
